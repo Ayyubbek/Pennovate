@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  --po: "Poppins", sans-serif;
+  --ru: "Rubik", sans-serif;
+  --la: "Lato", sans-serif;
+  --mu: "Mulish", sans-serif;
+}
